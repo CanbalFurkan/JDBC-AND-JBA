@@ -1,0 +1,5 @@
+- Create a Java Project
+- Copy JPA libraries into projects /lib folder
+- Select all jar files and ADD them to build path ( right click --> Build Path --> Add th build path)
+- Copy META-INF folder from another projects int src folder
+- Change the persistence.xml conf according to your database server ( username ? ,password ?)

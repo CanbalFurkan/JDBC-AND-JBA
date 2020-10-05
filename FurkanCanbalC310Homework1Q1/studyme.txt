@@ -1,0 +1,37 @@
+Week -1
+		TOOLS
+			http://www.eclipse.org/downloads --> Eclipse for JavaEE Developers
+			http://dev.mysql.com/downloads/mysql/ --> MySQL 
+			http://wildfly.org/downloads/ --> Wildfly 	
+		BYTECODE
+		Write Once run Everywhere
+		JVM (Java Virtual Machine)
+		Compile java source file (javac)
+		Run a java code (java)
+		new keyword
+		Declare Reference
+		Garbage Collector
+		Constructors (Empty (Default) , Full (Copy))
+Week-2
+		Object Oriented Programming Language Features
+			-Abstraction
+			-Encapsulation
+			-Inheritance
+			-Polymorphism 
+		Access Modifiers (private,<default>,protected,public)
+		is-a relation (inheritance)
+		has-a relation (composition, aggregation) 
+		Method Overloading
+		Method Overriding
+		Polymorphism
+		Abstract Classes
+Week-3
+		Interfaces
+		Static Methods
+		Static classes
+		Exception handling
+		try-catch structure
+		File IO operations
+		JDBC API
+		
+		
